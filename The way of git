@@ -1,7 +1,7 @@
-git clone path
+git clone path   //克隆远程仓库到本地
 
-git add -A
+git add -A   //所有文件
 
-git commit -m "......"
+git commit -m "......"   //提交+提示
 
-git push
+git push   //推到远程仓库
