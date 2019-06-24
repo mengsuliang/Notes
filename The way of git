@@ -1,0 +1,7 @@
+git clone path
+
+git add -A
+
+git commit "......"
+
+git push
