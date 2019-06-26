@@ -4,4 +4,5 @@ git add -A   //所有文件
 
 git commit -m "......"   //提交+提示
 
+//如远程仓库有改动，需在push前先pull
 git push   //推到远程仓库
