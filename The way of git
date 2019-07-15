@@ -1,0 +1,10 @@
+git clone path   //克隆远程仓库到本地
+
+git add file name //当前目录下的指定文件
+
+（git add -A   //即当前目录下的所有文件）
+
+git commit -m "......"   //提交+提示
+
+//如远程仓库有改动，需在push前先pull
+git push   //推到远程仓库
